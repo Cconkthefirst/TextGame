@@ -1,0 +1,12 @@
+# Purpose of the Project:
+
+While this project doesn't necessarily solve any open problems or fill a particular niche where there is need, it is still a fun project. It is a game, merely for entertainment purposes used to demonstrate the coding knowledge gained over the semester. The more particular highlighting points of the code are the use of classes and arrays, as well as looping functions to simulate time passage and exploration in the dungeon.
+
+## Assumptions made:
+
+This code relies on the user inputing directions for the program. There are very particular inputs that are acceptible for the code, and it is assumed the player will follow these guidelines. We assume that all input will either be numeric OR lowercase letters. We did our best to mitigate any possible places this could be an issue and place safety stops for unwanted inputs, but there may be places where unaccepted inputs are not filtered out, so please stick to the given commands. 
+
+## Flowchart/Analysis:
+
+The program (the game) is broken into three major parts: the looping "input" cycle, the output functions, and the classes. The classes consist of the rooms, the items, the monsters, and the player. We chose to have these things be classes/objects because you can store a variety of information in a single object rather than having to use a ton of variables to accomplish the same thing. For instance, filling the rooms with an item object and a monster object cleans up the rooms by removing the health, description, attack power, name, etc. of the items and monsters and instead lets us manipulate all of those things in one reference. For the input cycle, we knew the user needed a way to interact with the gamespace (the labyrinth), so there needed to be something that looped around and checked what to do everytime. This while loop is the cornerstone of the game, taking user input and figuring out what they are trying to do on repeat. Once the player has input something, that input is put through a series of if/else statements to connect to the output functions. These are a series of functions that interact with the room, character, item, and monster classes to manipulate the world. Whether adding an item to the inventory or fighting a monster, these are how the player ultimately changes things. Everything seems to function how we intended, but there will always be bugs in a program until thorough playtesting has happened.
+
