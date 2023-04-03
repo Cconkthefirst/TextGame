@@ -46,9 +46,9 @@ int main(){
     dungeonMaker(dungeon);
 
     //Rules and Start Message
-    cout << "--------------------------------" <<endl;
-    cout << "| Super Awesome Video Game 2.0 |" <<endl;
-    cout << "--------------------------------" <<endl;
+    cout << "------------------" <<endl;
+    cout << "| Text Adventure |" <<endl;
+    cout << "------------------" <<endl;
     cout<<endl;
     cout<<endl;
     cout << "Goal:"<<endl;
