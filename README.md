@@ -1,6 +1,7 @@
 # TextGame
-### Game created by me and my partner Zach Zwanzig, inspired by the classic text-based adventure games like Zork. Built Freshman year to demonstrate the knowledge of object-oriented programming we had at the time. My contributions were the UI, player movement, character, and item. We both worked on main.cpp.
----
+
+Game created by me and my partner Zach Zwanzig, inspired by the classic text-based adventure games like Zork. Built Freshman year to demonstrate the knowledge of object-oriented programming we had at the time. My contributions were the UI, player movement, character, and item. We both worked on main.cpp.
+
 ## Welcome to the Labyrinth!
 
 You have heard tell of an ancient, powerful artifact known as The Macguffin, rumored to be resting in the center of the Minotaur's labyrinth.
