@@ -1,16 +1,16 @@
 # TextGame
-    Game created by me and my partner Zach Zwanzig, inspired by the classic text-based adventure games like Zork. Built Freshman year to demonstrate the knowledge of object-oriented programming we had at the time. My contributions were the UI, player movement, character, and item. We both worked on main.cpp.
+### Game created by me and my partner Zach Zwanzig, inspired by the classic text-based adventure games like Zork. Built Freshman year to demonstrate the knowledge of object-oriented programming we had at the time. My contributions were the UI, player movement, character, and item. We both worked on main.cpp.
 ---
 ## Welcome to the Labyrinth!
 
-    You have heard tell of an ancient, powerful artifact known as The Macguffin, rumored to be resting in the center of the Minotaur's labyrinth.
-    Many adventurers have attempted to make the perilous journey to claim this wonderful prize, but none who enter have returned to tell the tale.
-    Perhaps YOU will be the one to find the center of the maze, claim the Macguffin, and return home a hero!
+You have heard tell of an ancient, powerful artifact known as The Macguffin, rumored to be resting in the center of the Minotaur's labyrinth.
+Many adventurers have attempted to make the perilous journey to claim this wonderful prize, but none who enter have returned to tell the tale.
+Perhaps YOU will be the one to find the center of the maze, claim the Macguffin, and return home a hero!
 
 
 ## The goal:
 
-    Find your way through the maze, collect the four keys, slay the Minotaur, and claim the Macguffin!
+Find your way through the maze, collect the four keys, slay the Minotaur, and claim the Macguffin!
 
 
 # How to run the game?
